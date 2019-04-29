@@ -13,6 +13,6 @@ class CmdService {
     }
     // Внутри функции ReferenceH вывод сообщения
     fun ReferenceH() {
-        println("Справка")
+        println(message = "Справка")
     }
 }
